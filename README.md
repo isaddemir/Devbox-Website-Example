@@ -1,6 +1,6 @@
 # Devbox-Website-Example
 This repository showcases a reimagined version of a website I previously created in another GitHub project, which provided information about exoplanets and galaxies. The updated version applies the same HTML and CSS foundations to a different theme, demonstrating adaptability and design versatility. While retaining the structural simplicity, the content and visual elements have been refreshed to fit the new thematic direction. <br>
-To see the demo version of the website, click [here](https://astronomy-website-example.netlify.app/).
+To see the demo version of the website, click [here](https://devbox-website-example.netlify.app/).
 
 ### Website Önizleme
 
